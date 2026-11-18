@@ -1,4 +1,4 @@
-# 🚊 DataStory_BremenTransit: GTFS-RT Public Transport Telemetry Analytics
+# 🚊 DataStory_BremenTransit
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Polars](https://img.shields.io/badge/Polars-Blazing%20Fast-orange.svg)](https://www.pola.rs/)
@@ -14,9 +14,9 @@ This collaborative project was developed by a three-member team, with responsibi
 
 | Team Member | Role & Responsibilities | Focus Area |
 | :--- | :--- | :--- |
-| **Team Member 1** | Data Processing & Ingestion Pipeline | Built the high-performance Polars ingestion engine for 4,055 snapshot files, handled schema parsing (`1E` route anomalies), and performed Exploratory Data Analysis (EDA) distribution modeling. |
-| **Team Member 2** | Main Research Question 1 | Investigated spatial bottleneck hotspots, mapped numerical GTFS IDs using `lookup_table.csv`, and analyzed chronic station-level delays across the network. |
-| **Team Member 3** | Main Research Question 2 | Analyzed temporal delay trends, computing hourly aggregations (mean vs. median) to evaluate peak commute congestion and network schedule efficiency. |
+| **Team Member 1: Nithin Yemparala** | Data Processing & Ingestion Pipeline | Built the high-performance Polars ingestion engine for 4,055 snapshot files, handled schema parsing (`1E` route anomalies), and performed Exploratory Data Analysis (EDA) distribution modeling. |
+| **Team Member 2: Mark Koruku** | Main Research Question 1 | Investigated spatial bottleneck hotspots, mapped numerical GTFS IDs using `lookup_table.csv`, and analyzed chronic station-level delays across the network. |
+| **Team Member 3: Saikiran Gandhe** | Main Research Question 2 | Analyzed temporal delay trends, computing hourly aggregations (mean vs. median) to evaluate peak commute congestion and network schedule efficiency. |
 
 ---
 
@@ -56,3 +56,4 @@ This collaborative project was developed by a three-member team, with responsibi
 3. **Portfolio Value:** Demonstrates how combining Polars streaming pipelines with static GTFS lookups creates an efficient, scalable framework for urban transit analytics.
 
 ---
+
