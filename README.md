@@ -1,4 +1,4 @@
-# 🚊 DataStory_BremenTransit
+# 🚊 DataStory_Bremen_Transit
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Polars](https://img.shields.io/badge/Polars-Blazing%20Fast-orange.svg)](https://www.pola.rs/)
